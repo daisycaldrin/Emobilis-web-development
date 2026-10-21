@@ -5,3 +5,12 @@ body {
      color: #262626;
     
 }
+ 
+nav{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     background-color: #173d2a;
+     padding: 20px  10px;
+
+}
