@@ -16,11 +16,15 @@ nav{
 }
 
 .logo{
-     color: #f7f5cf;
-     font-size: 25px;
+     font-size: 24px;
      font-weight: bold;
+     color: #f7f5cf;
+     margin-left: 20px;
+} 
 
+ nav a{
 
-
-
+     color: #f7f5cf;
+     text-decoration: none;
+     margin-left: 20px;
 }
