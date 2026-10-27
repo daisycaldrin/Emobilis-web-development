@@ -22,9 +22,52 @@ nav{
      margin-left: 20px;
 } 
 
- nav a{
+ .hero nav a{
 
      color: #f7f5cf;
      text-decoration: none;
      margin-left: 20px;
+}
+
+.hero{
+ min-height: 480px;
+ background-image: url(https://images.pexels.com/photos/4337448/pexels-photo-4337448.jpeg);    
+ background-size: cover;
+ background-position: center;
+ display: flex;
+ align-items: center;
+ padding: 60px 20px;
+ color: #f7f5cf;
+
+}
+
+.hero h1{
+     font-size: 50px;
+
+}
+
+.hero p{
+     font-size: 20px;
+     line-height: 1.6;
+}
+
+.hero button{
+     background-color: #15b515;
+     color: black;
+     border: none;
+     padding: 14px 25px;
+     border-radius: 5px;
+     cursor: pointer;
+}
+
+.columns{
+     display: flex;
+     justify-content: space-between;
+     padding: 40px 20px;
+}
+
+.column{
+     flex: 1;
+     margin: 0 10px;
+     text-align: center;
 }
