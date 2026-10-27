@@ -85,3 +85,12 @@ nav{
      color: #f7f5cf;
 }
 
+/* contact Styles */
+.hero-contact{
+     background-color: #173d2a;
+     color: #f7f5cf;
+     text-align: center;
+     padding: 45px 20px;
+     font-size: 18px;
+}
+
